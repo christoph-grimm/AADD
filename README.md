@@ -7,6 +7,7 @@ It can also be added to SystemC or SystemC AMS/TLM.
 This requires an additional SystemC library.
 
 ## Executive Summary
+For the impatient: 
 ```
 export GLPKLIB=PathToInstallationDirectory
 mkdir build
