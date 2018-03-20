@@ -9,12 +9,12 @@ This requires an additional SystemC library.
 ## Executive Summary
 For the impatient: 
 ```
-export GLPKLIB=PathToInstallationDirectory
-mkdir build
-cmake ..
-make 
-ctest
-make install
+	> export GLPKLIB=PathToInstallationDirectory
+	> mkdir build
+	> cmake ..
+	> make 
+	> ctest
+	> make install
 ```
 
 ## Installation in details 
