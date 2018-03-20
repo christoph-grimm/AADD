@@ -5,15 +5,16 @@ It can also be added to SystemC or SystemC AMS/TLM.
 
 BUILD AND INSTALLATION of the AADD package 
 
-============ Executive Summary ===========
+** Executive Summary **
 export GLPKLIB=PathToInstallationDirectory
 mkdir build
 cmake ..
 make 
 ctest
 make install
-==========================================
 
+
+** Installation in details ** 
 
 If it doesn't work, carefully do the following steps: 
 
